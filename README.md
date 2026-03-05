@@ -4,14 +4,14 @@
 
 ## 目录
 
-- 项目目录：`~/.openclaw/workspace/code/workspace/hkex-downloader`
+- 项目目录：`/code/workspace/hkex-downloader`
 - 输出目录：`~/Desktop/HKEX_展示文件/YYYY-MM-DD/`
 - 去重/断点状态：`state.json`
 
 ## 安装
 
 ```bash
-cd ~/.openclaw/workspace/code/workspace/hkex-downloader
+cd  /code/workspace/hkex-downloader
 npm i
 npx playwright install chromium
 ```
