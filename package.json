@@ -1,0 +1,19 @@
+{
+  "name": "hkex-downloader",
+  "version": "1.0.0",
+  "description": "Download latest HKEX \"展示文件\" attachments into date folders (dedupe by SHA-256).",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "hkex",
+    "playwright",
+    "downloader"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

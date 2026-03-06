@@ -1,0 +1,975 @@
+{
+  "hashIndex": {
+    "dcd1705e117c7eef83d59f13500ebe15cc8e7a3239c268c24be665165f4fa623": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 組織章程細則(英文).pdf",
+      "ts": 1772711730236,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700138_c.pdf"
+    },
+    "125d94264f2d987ec366cd5d2ab92f23922c6c4168d747fbbc3978fbad7f5a28": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 組織章程細則(中文).pdf",
+      "ts": 1772711732314,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700137_c.pdf"
+    },
+    "7a9f8a043a7d68b02e8fd0d45e70c6dd24ba0e19a63827c42804e0d35bea8f45": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 會計師報告.pdf",
+      "ts": 1772711734255,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700139_c.pdf"
+    },
+    "c2aa25125d1dfd04098e4be69159087e8ef072d05f4975715145780b53107c30": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 經審計綜合財務報表.pdf",
+      "ts": 1772711736149,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700140_c.pdf"
+    },
+    "baf1d61396d1e52fa75e91e499288c15422859697ee50c93e6fe6fe9c9e756eb": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 未經審計備考財務資料的報告.pdf",
+      "ts": 1772711743463,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700141_c.pdf"
+    },
+    "36b97e73c361635259f04018e7fdbd598768df896ba0b5e325163d8a2066c83a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 安永會計師事務所及獨家保薦人有關本集團截至2025年12月31日止年度利潤估計的函件.pdf",
+      "ts": 1772711745030,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700142_c.pdf"
+    },
+    "bf847de525bc13fc243b321cdb8133c23e75959e9882c48ed6ef3b9e4225de4f": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 弗若斯特沙利文報告.pdf",
+      "ts": 1772711752464,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700143_c.pdf"
+    },
+    "cb5354c1cac4aeacc8be4ae823d25ca5979d095435ad0c7577df8f6b798c43dd": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 中國法律意見書.pdf",
+      "ts": 1772711767743,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700144_c.pdf"
+    },
+    "68c5d8a89d5852628405cfc98455c978313481cd25cbcb95469d8847243d0841": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 重大合同.pdf",
+      "ts": 1772711771085,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700145_c.pdf"
+    },
+    "b05fc2a3bb542bb1f0b65f13634192cef1ddabce6d5f8520b5ab425cb7b2704b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 服務合同.pdf",
+      "ts": 1772711777829,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700146_c.pdf"
+    },
+    "0cbfd3a3b9b1f9e13d1f05442950f9216a68995246c1aba8c27f5a77aa7f3046": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 專家同意書.pdf",
+      "ts": 1772711790447,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700147_c.pdf"
+    },
+    "5aeaf1cf2d81cdd1399ad60cebebf022c4ff3196e4a5bd25936faeaccd5e0c15": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02649 中國公司法、中國證券法及《境內企業境外發行證券和上市管理試行辦法》連同其非正式英文譯本.pdf",
+      "ts": 1772711792460,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031241/2026022700148_c.pdf"
+    },
+    "df41a4858137b43204e0b5fefcfca0daff10c428258a16eb210db9f20fdba793": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 公司章程（英文）.pdf",
+      "ts": 1772711794527,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700110_c.pdf"
+    },
+    "08dfe2725afd3cde8ad6565a2a77cf331b8fd82a1e25e4c0371f77bc573698c3": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 公司章程（中文）.pdf",
+      "ts": 1772711795962,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700111_c.pdf"
+    },
+    "8aa7b07c6e64afd657a4349d50b848befc51803d73a011c7e6013485fae6dd49": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 會計師報告.pdf",
+      "ts": 1772711804824,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700112_c.pdf"
+    },
+    "c3b20fb0d00ecaf370ad4e42f3bce6d5b205b09389837ea0c47acb42ec8dcdfa": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 經審計綜合財務報表.pdf",
+      "ts": 1772711811497,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700113_c.pdf"
+    },
+    "6a3266ab3c4aa06ada3587172dc4bd0d89ca2e15c698501c36bcbbf7661598a3": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 溢利估計的函件.pdf",
+      "ts": 1772711812927,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700114_c.pdf"
+    },
+    "a6f8af03fd056d9064db567e17be11cc148ef5fbc88d95230c7699a64263349b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 未經審計備考財務資料報告.pdf",
+      "ts": 1772711813998,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700115_c.pdf"
+    },
+    "2e088be98b8fb45a64eb6d446a788e91884fcccfd7b5c15870c8616c20182aed": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 行業報告.pdf",
+      "ts": 1772711816374,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700116_c.pdf"
+    },
+    "3f76421ac2a8a8f07cf21e073ef1f69b33cc2adf64a4ad4e95e9c8ee3fbf5c3c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 中國法律意見書.pdf",
+      "ts": 1772711818463,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700117_c.pdf"
+    },
+    "0966b105559659f3f8acfbc8b8aa56f038e8f53193e092462b1eeb9aedadd74c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 國際制裁及美國對外投資規則的法律備忘錄.pdf",
+      "ts": 1772711824010,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700118_c.pdf"
+    },
+    "5ecef113cf1c1973ed3acbd8dd8d99d4d5e116aceacafba55b76cdce2bd31e63": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 服務合同.pdf",
+      "ts": 1772711828715,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700119_c.pdf"
+    },
+    "28c307b23f253bba23cca6273f5c7f6b58a3d38b9dc348fea9a147dab5128833": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 重大合約.pdf",
+      "ts": 1772711848461,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700120_c.pdf"
+    },
+    "ae6e8f5143ef063d5899ba4247beb18a62a8e9442a4933246681f25a0501f4d4": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 專家同意書.pdf",
+      "ts": 1772711857606,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700121_c.pdf"
+    },
+    "06dac71b866bfde121480b1a952c2fbf24ce0b9c0719c0c7a369c7401dbe5a1f": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02715 2025年購股權計劃及2025年受限制股份計劃.pdf",
+      "ts": 1772711859195,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031239/2026022700122_c.pdf"
+    },
+    "8f97fd6202babf1c60536e1dd3d5f84ca8d88bce39e84850e9ded834621f8fd1": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 公司章程.pdf",
+      "ts": 1772711861685,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700075_c.pdf"
+    },
+    "d3ce975a48609bd8f0b200d6608640ba1f7d79a0133212a2c3f1a0f09d86001d": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 會計師報告.pdf",
+      "ts": 1772711876211,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700076_c.pdf"
+    },
+    "02a112a56de734554e8a5d57776afae2c7c5d2d7b7be5ad234f1d5d4b9fa873e": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 經審計合併財務報表.pdf",
+      "ts": 1772711884014,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700077_c.pdf"
+    },
+    "7752d951dc80b703c70d6e5cedfb5e842215b42a113335aa154b26e228d5707f": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 未經審核備考財務資料報告.pdf",
+      "ts": 1772711885015,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700078_c.pdf"
+    },
+    "99d5753580279b4d647404a60aa170898f4d142e797997a8b0722cedb8795235": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 就本集團利潤估計發出的函件.pdf",
+      "ts": 1772711886066,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700079_c.pdf"
+    },
+    "fe4d9b6749117c72b22ef90fb74f8b76b11100cecce24b74e98d236059366598": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 中國法律意見書.pdf",
+      "ts": 1772711888224,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700080_c.pdf"
+    },
+    "ae493ac400809b69544ce29f53c4afdc1073f454eb6b23c4ebaa79bbd9dcabc1": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 國際制裁法律備忘錄.pdf",
+      "ts": 1772711891040,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700081_c.pdf"
+    },
+    "f8dd8985aa3ad8470899e3f6f90d064f8c6dd549c5a6b68d2820649b37672e07": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 重大合約.pdf",
+      "ts": 1772711909223,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700082_c.pdf"
+    },
+    "f6afe097c79e44b48c846cfef7a9d084c2acbcfc486896a5f15cd6911730b0a1": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 專家同意書.pdf",
+      "ts": 1772711920580,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700083_c.pdf"
+    },
+    "65e5a27d6d1bfdaedde991cfb2f226eaf9ed35d004d2bed0fce8c3ba8096561a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 服務合約及委任函.pdf",
+      "ts": 1772711923549,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700084_c.pdf"
+    },
+    "b5cbd4f68f27be40738173fcd46257581c3408de3af500135fdb17fdcd4d9a0b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 弗若斯特沙利文報告.pdf",
+      "ts": 1772711928014,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700085_c.pdf"
+    },
+    "9b81686299d5fd2e9944af9b67cce886327c416d0cd352cb62a852cf16ce28ea": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 美國境外投資規則分析.pdf",
+      "ts": 1772711929050,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700086_c.pdf"
+    },
+    "2799fe7c5f027935c52131b38b3e93e2e8d6b4bb6f13e1b3b08090f2e8005e58": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 中國公司法、《中華人民共和國證券法》及境外上市試行辦法，連同其非官方的英譯本.pdf",
+      "ts": 1772711932747,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700087_c.pdf"
+    },
+    "805d82db6f073958f4107e2fa12ac29a436a8d697f8e2e7bb9dea68473a7c40c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/02692 2024年股票激勵計劃中2024年股票期權計劃條款.pdf",
+      "ts": 1772711934025,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031231/2026022700088_c.pdf"
+    },
+    "2f3989b70cf60a3f3d65a145c61366f6404d37e7deed3346576b61758dee7c0a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 組織章程細則.pdf",
+      "ts": 1772711936498,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700043_c.pdf"
+    },
+    "6da7c8edacd1464fdc50d7efc91944e1aa3d306adb7c8ce78df040176b9383b9": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 經審計綜合財務報表.pdf",
+      "ts": 1772711939966,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700044_c.pdf"
+    },
+    "ffc7ccf8716f97418cd3df110fe85615ae062c86d64eea43497c6c3ba61fcf19": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 會計師報告.pdf",
+      "ts": 1772711941645,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700045_c.pdf"
+    },
+    "afd856c3cb1cbe3d03a6d50b873c7f9fde96c34191ec1be845c2d571c8c1a82e": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 未經審核備考財務資料報告.pdf",
+      "ts": 1772711942890,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700046_c.pdf"
+    },
+    "7d3b37804e2373afcd97c289bae3edc81fad54b47fccaaf696a51ab5cb8cd12a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 利潤估計.pdf",
+      "ts": 1772711944647,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700047_c.pdf"
+    },
+    "93fe747a55bf1606d8d98abe6eea679b2f8d67adaa8c5596d88480a6d528ecfb": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 中國法律意見書.pdf",
+      "ts": 1772711947148,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700048_c.pdf"
+    },
+    "4e4010272080f3d4cfe7b699d11c66195d272466b7d037279298affd03562655": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 行業報告.pdf",
+      "ts": 1772711957734,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700049_c.pdf"
+    },
+    "f09fa752c319e52c73b110ec835f87f6892ceef6dee11cc1564dc53d1d3f7627": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 重大合同.pdf",
+      "ts": 1772711965521,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700050_c.pdf"
+    },
+    "c3362d0b80450687755f5a27cd8110c6a16bea91790d91e6a2a719be3ff01fbb": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 服務合同及委任函.pdf",
+      "ts": 1772711967612,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700051_c.pdf"
+    },
+    "66476e5d80fc01eb53f439e46bb3854178cd3d24180e9574857af1d0f8efd503": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 專家同意書.pdf",
+      "ts": 1772711973717,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700052_c.pdf"
+    },
+    "4daf5641814a0d01fd1552da16f39cfc4824c663b538d634e7c88bcaf2bcf373": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 中國公司法、中國證券法及試行辦法連同其非官方英文譯本.pdf",
+      "ts": 1772711976951,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700053_c.pdf"
+    },
+    "4e3ff75af6abc188e62184d7028186e5a255cdbaa326a075d1eccb72b308c9ba": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-27/03268 2024股權激勵計劃條款.pdf",
+      "ts": 1772711977989,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/12031227/2026022700054_c.pdf"
+    },
+    "bc95fb2826bdbfff7b675e84d6868105270565bf592de52e639bffaf0e429814": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00419 專家的書面同意函.pdf",
+      "ts": 1772711979819,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030417/2026022600437_c.pdf"
+    },
+    "efd1314a50bb4973a11e566de697e8736ce9e17b9bf7325e80d285142e4336b3": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00419 獨立董事委員會函件.pdf",
+      "ts": 1772711983920,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030417/2026022600438_c.pdf"
+    },
+    "3bdc3b801e78ea0bbc36437527d32195f78223a9e906ac1dae17d0feeb38073b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00419 獨立財務顧問函件.pdf",
+      "ts": 1772711989626,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030417/2026022600439_c.pdf"
+    },
+    "93ae6e8759e44b5628b3fee51d8c655bf5bb54052067a608b85455116830083c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00419 認購協議.pdf",
+      "ts": 1772711998498,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030417/2026022600440_c.pdf"
+    },
+    "b432885c7e7c55774e8168062f0d2cc1dd7b06616dac5ef3f32a4842e3f6cc62": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00419 延期契約.pdf",
+      "ts": 1772712000767,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030417/2026022600441_c.pdf"
+    },
+    "d6e392fac60c328541069e697e5531bce93f639028d8b3cef81823107c7aa6ae": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00419 通函.pdf",
+      "ts": 1772712003197,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030417/2026022600442_c.pdf"
+    },
+    "93ed68a349785693238f467766bc24fe354c4172a2cfcf2575b866c2267f6dd5": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00312 顧問費支付延期協議.pdf",
+      "ts": 1772712005706,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030415/2026022600427_c.pdf"
+    },
+    "341509afad9dbc44e7be2a59613188da42382397e96b83b069da6944cdf713ef": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-26/00312 通函附錄「8. 專家資格與同意」段落所述專家的同意書.pdf",
+      "ts": 1772712006504,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/12030415/2026022600428_c.pdf"
+    },
+    "63a614c91094bdfb0fddd0e8d7d2a0259b4f147ac342b368d3eab35e042c06c9": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/02409 更替協議.pdf",
+      "ts": 1772712009856,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029469/2026022500452_c.pdf"
+    },
+    "cda4188837e3bc9d2583f25389a2f7d8b0b63f76d92d7328a3906119305c5b47": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/02409 六份造船合約.pdf",
+      "ts": 1772712033118,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029469/2026022500453_c.pdf"
+    },
+    "9117da22be0c8dd9aa0da0d98908576968a06b569b0579bbaabfd8374bcffebf": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/02409 光船租賃.pdf",
+      "ts": 1772712046756,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029469/2026022500454_c.pdf"
+    },
+    "72efa20175806ae4637b5adef0c0a3098b4efda19ace8e7258aa16d17295fec3": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/02409 協議備忘錄.pdf",
+      "ts": 1772712051450,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029469/2026022500455_c.pdf"
+    },
+    "dbac45617e60a74745a7e2b32566d46bedfd62ecda3776656c434a14a0b7a486": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/02409 擔保契據.pdf",
+      "ts": 1772712054926,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029469/2026022500456_c.pdf"
+    },
+    "a6cb4e495df286c035b7dd569290ea378a3016dfb4ede2dbfc9aea0c3152fd62": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/02409 擔保文件.pdf",
+      "ts": 1772712064458,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029469/2026022500457_c.pdf"
+    },
+    "e1dca8113a4b47bd963ea0a868b4b94eb2770f2db128e2a06c9f5991bf134829": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 董事會函件.pdf",
+      "ts": 1772712065893,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500277_c.pdf"
+    },
+    "d7490d72720200827766788995513aa660cfcdfe09c8583d0f991bd1a66ebcfb": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 本集團未經審核備考財務資料的會計師報告.pdf",
+      "ts": 1772712070398,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500278_c.pdf"
+    },
+    "0ff8a5c7ca49756147f1b16069c45adeb9d420851975a599e9315b1316926896": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 於二零二五年七月二十二日就續約租賃公司辦公物業訂立之租賃協議.pdf",
+      "ts": 1772712073790,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500279_c.pdf"
+    },
+    "f16130cffcfc659b2a914914ba94aa206c9ab3e7be57cdeb3e4eebb533f7e575": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 配售協議.pdf",
+      "ts": 1772712075642,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500280_c.pdf"
+    },
+    "82e554f3245c3f512e58256065056cc137226030f5f8735bd5c006892a3818a2": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 國衛會計師事務所有限公司的書面同意.pdf",
+      "ts": 1772712092165,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500281_c.pdf"
+    },
+    "bf64e06e45714213f99ab21fce463e1c0de6f21d221c531f114ba62c84152027": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 供股章程.pdf",
+      "ts": 1772712093404,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500282_c.pdf"
+    },
+    "76938fc0b44b53fcbf6d98d6f2ca117900f305a7698e1aaa2b3adc638150665f": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00401 暫定配額通知書.pdf",
+      "ts": 1772712095361,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029307/2026022500283_c.pdf"
+    },
+    "2394da3aa6892d015fbc692c2f92028a1711dd39d10f5dd034a3cc7573db4466": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00422 (a) 原則性合約.pdf",
+      "ts": 1772712111272,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029279/2026022500238_c.pdf"
+    },
+    "52ef1d35f1df5ad6aa7826f111913e5d14ff800563da98e874524adba6ffb04e": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00422 (b) 物業估值報告.pdf",
+      "ts": 1772712114972,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029279/2026022500239_c.pdf"
+    },
+    "90eab8107f15a94205abdd13ad556855bf1ccf01102403b5773122306a003aa5": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00422 (c) 專家同意書.pdf",
+      "ts": 1772712115701,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029279/2026022500240_c.pdf"
+    },
+    "92aabd02a0161e793fe479832851713892f47720cadb99578455f2eb5eaee022": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-25/00422 (d) 通函.pdf",
+      "ts": 1772712118466,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/12029279/2026022500241_c.pdf"
+    },
+    "b418720da85eba3156ad8ad315a38dbac375dc68fe67b8fefa2815b3dae8d972": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 1. 增資協議.pdf",
+      "ts": 1772712124123,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401164_c.pdf"
+    },
+    "e0f6d0ab149a82880b029c9c488bd2d82e754f260da4e07f93f07ed3fb9eae0d": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 2. 董事會函件.pdf",
+      "ts": 1772712125760,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401165_c.pdf"
+    },
+    "e7573ce27dc93a7beb46fd2e9b815bbf5afa3d23f968c7db5763f7e25bd599bd": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 3. 獨立董事委員會函件.pdf",
+      "ts": 1772712127096,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401166_c.pdf"
+    },
+    "ad105c09105b739233371b5da7afd60d0c47ca9e3695418714dd41625ddfe93c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 4. 獨立財務顧問函件.pdf",
+      "ts": 1772712132610,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401167_c.pdf"
+    },
+    "76fadb2fd6d39fc460f3d9e3acc64a15a83e90a54cd4e5a02d5a3611e125d9ad": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 5. 艾華迪評估諮詢有限公司發出的評估報告.pdf",
+      "ts": 1772712133735,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401168_c.pdf"
+    },
+    "48d4d3fefd51ce90d5990b652455fe0f3fb9e6c5da297cd55db2106310723d4f": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 6. 新百利融資有限公司發出的同意書.pdf",
+      "ts": 1772712134692,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401169_c.pdf"
+    },
+    "47a5a31deb2e41ec4e01cf7f712f0b46e22239f609db3e0ba06c064c8b8450de": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 7. 艾華迪評估諮詢有限公司發出的同意書.pdf",
+      "ts": 1772712136147,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401170_c.pdf"
+    },
+    "42c39e3cfbf636cac43eded6c15bccf6e056d524023014b27d9920ad7c0fbd42": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 8. 前輪增資協議.pdf",
+      "ts": 1772712138455,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401171_c.pdf"
+    },
+    "612881839ba94833fa63d512a83281bb8337a22c178469be788cac398d9ac0db": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 9. 日期爲2025年7月31日的股權轉讓協議.pdf",
+      "ts": 1772712143177,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401172_c.pdf"
+    },
+    "10e3cb289dae4f6937d17b2f1d343d187cb7b3f6b8ac96160db2f1371b24152d": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 10. 日期爲2025年3月28日的協議.pdf",
+      "ts": 1772712144597,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401173_c.pdf"
+    },
+    "ba00ea07e64fcbcbf72b79b152d07c6d3bfe69a950957d17d19228c470a9a58e": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/02215 11. 通函.pdf",
+      "ts": 1772712147300,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028959/2026022401174_c.pdf"
+    },
+    "52bb1ef590779c94e116fcb8c7606db818bbe971716095e0910db62cf0e10176": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/03686 (a) 日期為2026年1月7日的協議書（有關下達指令出售300,000安士銀條）.pdf",
+      "ts": 1772712149864,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028704/2026022400613_c.pdf"
+    },
+    "6e659a76f8265284e556c3ac37870626d4f8bb7591058a0caabe2e69b43e963f": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/03686 (b) 日期為2026年1月7日的協議書（有關下達指令出售100,000安士銀條）.pdf",
+      "ts": 1772712152179,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028704/2026022400614_c.pdf"
+    },
+    "f70780b9e4e43b7b71aa9c9956cae1cb878b236d37f8769f94743d93f7007b00": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/03686 (c) 日期為2026年1月12日的協議書（有關下達指令出售100,000安士銀條）.pdf",
+      "ts": 1772712154568,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028704/2026022400615_c.pdf"
+    },
+    "8ce7e1cf51e9c2a63839dd187b8233d15b930024f9a6af577a8559fa31eac34c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/03686 (d) 日期為2026年1月12日的協議書（有關下達指令出售180,000安士銀條）.pdf",
+      "ts": 1772712157794,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028704/2026022400616_c.pdf"
+    },
+    "415e2e4b2481c91d0e90fd32166c670f7c3882a7c6fde63fea718d097be7caa9": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-24/03686 (e) 本通函.pdf",
+      "ts": 1772712160066,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/12028704/2026022400617_c.pdf"
+    },
+    "8abd9e0fedb7ebcffb389e720560da6afa62ad92e3d0e064ab6826ee10f9eb67": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 1. 獨立董事委員會函件.pdf",
+      "ts": 1772712162479,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300644_c.pdf"
+    },
+    "4a6323bb6c5a68f0e6e6a9480482f53c4ad0aa6fc16847c5692b7f77efc8e889": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 2. 獨立財務顧問函件.pdf",
+      "ts": 1772712167390,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300645_c.pdf"
+    },
+    "5db5bb62e6d814b4a74b1818bd02531ef91d2267e015ca35d82ffaf0199a6f3d": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 3. 力高企業融資之同意書.pdf",
+      "ts": 1772712168194,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300646_c.pdf"
+    },
+    "49957c60badb79315897a83dec59bd16f378b01b0f371020f3c14f91f8acb68a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 4. 日期為二零零八年一月十五日之認購協議以及可換股債券之條款及條件.pdf",
+      "ts": 1772712176526,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300647_c.pdf"
+    },
+    "c4765d647cb740fe2facb0a56c598c0464657c9521f415b5e7336413fdb62884": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 5. 日期為二零一一年二月十一日之修訂契據.pdf",
+      "ts": 1772712188585,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300648_c.pdf"
+    },
+    "12687ea910705821d1312ac82ca60f94324aa5ee56a87b92c796a480a83949cf": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 6. 日期為二零一四年一月二十一日之第二份修訂契據（經日期為二零一四年一月二十八日之補充契據修訂及補充）.pdf",
+      "ts": 1772712201926,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300649_c.pdf"
+    },
+    "e0bacbe83ffa1dfd96ad4b95cb1ad494b0ef2bd402d4b897fbb4585fc1164538": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 7. 日期為二零一七年一月二十五日之第三份修訂契據.pdf",
+      "ts": 1772712217959,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300650_c.pdf"
+    },
+    "8b9bb7f2811e616839396db5cfc74e0a2cd701e146cf882b54e0b56134f18a4a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 8. 日期為二零二零年二月三日之第四份修訂契據.pdf",
+      "ts": 1772712230767,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300651_c.pdf"
+    },
+    "ead45134074ff3d6d6d2402ce59bc3360b912657f22df921018178ed3f8e0072": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 9. 日期為二零二二年八月十一日之第五份修訂契據.pdf",
+      "ts": 1772712251719,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300652_c.pdf"
+    },
+    "ed444d0fba4b4c100d48e3f8ccf30b6f98b33f2ed7c995f3cd4a820c6320cc55": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01229 展示文件 展示文件 (多檔案) 10. 日期為二零二六年一月二十日之第六份修訂契據.pdf",
+      "ts": 1772713056711,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027846/2026022300653_c.pdf"
+    },
+    "f8f30cc292ea303510d0a99f33ca3ad90c27cf23ceda373b6ef10389000c5c83": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 重組協議.pdf",
+      "ts": 1772713059460,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300605_c.pdf"
+    },
+    "28d18b2dc0b3340c62723c6cc9db9ca05706adb22dbae344ea07819209f48681": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 董事會函件.pdf",
+      "ts": 1772713061298,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300606_c.pdf"
+    },
+    "a42160357bab152e0e946704a57bfbb7c71fd0450c1ee5be9af489f31b1cc82c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 獨立董事委員會函件.pdf",
+      "ts": 1772713062632,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300607_c.pdf"
+    },
+    "d3b759041a479393524dcc4cd271894f9816c5408166bee3fd4aac58a96ef76d": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 獨立財務顧問函件.pdf",
+      "ts": 1772713064552,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300608_c.pdf"
+    },
+    "041112e725b7123d2f62bf52dea407685db6a8c0f87a7256f05470f6836e46a0": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 估值報告.pdf",
+      "ts": 1772713071833,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300609_c.pdf"
+    },
+    "39765839183090fc931cf3d52518a4d3a338e2266adee603ac384fa16135aca7": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 獨立財務顧問同意書.pdf",
+      "ts": 1772713073201,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300610_c.pdf"
+    },
+    "a2dfc5a900d1d14f9221e5c40e73d80b47b238e3a72ffa2e60dd0ea6c2630317": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/01777 展示文件 展示文件 (多檔案) 浩德融資有限公司同意書.pdf",
+      "ts": 1772713074149,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027824/2026022300611_c.pdf"
+    },
+    "7f5d0797391f4110650211993834d709be1a1f93a3304fb40e9440abf6e45f38": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (a). 董事會函件.pdf",
+      "ts": 1772713076090,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300365_c.pdf"
+    },
+    "a87c51258e40e225afe0c0b2f47a3ab8ed46303798ba7fab3cdd07305f9d9f3a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)1. 藝術品收購合同 1.pdf",
+      "ts": 1772713077094,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300366_c.pdf"
+    },
+    "2c9f71b026de44733932bf9283ff176d25d8d1e9af36210f88b53290ef256262": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)2. 藝術品收購合同 2.pdf",
+      "ts": 1772713078197,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300367_c.pdf"
+    },
+    "11273295b98fe9fbe926eb0357ffded3d812d0aa0ae6f47c5f12ef5d387abb73": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)3. 藝術品收購合同 3.pdf",
+      "ts": 1772713079466,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300368_c.pdf"
+    },
+    "34bca4e9130a1bfb6e6c1281c6bea01cf9d0e01b7f8658a36d0aec65fcfb12ba": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)4. 藝術品收購合同 4.pdf",
+      "ts": 1772713080925,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300369_c.pdf"
+    },
+    "49bdd1e49e539573cfe545e4601a90022cdca77c0cdd18b77b84754d2d1d4be4": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)5a. 藝術品收購合同 5a.pdf",
+      "ts": 1772713082544,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300370_c.pdf"
+    },
+    "4f13a23d48de48eb6e5d570911398f07970d3f149a41da6067c613715fb9e4bc": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)5b. 藝術品收購合同 5b.pdf",
+      "ts": 1772713085551,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300371_c.pdf"
+    },
+    "540ed639ab43699a99d016232296bc9eee74e6cb28c676a195781875065f28cf": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)6. 藝術品收購合同 6.pdf",
+      "ts": 1772713086700,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300372_c.pdf"
+    },
+    "0bee7968d215f4f1c8f2cdc6b5b41e6b49b247a5df356a35ea5377ed57e44cfe": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)7. 藝術品收購合同 7.pdf",
+      "ts": 1772713087990,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300373_c.pdf"
+    },
+    "75a6da925a797337a7850c12cd16910f5b889ad1930322c3d08f74355ecb2ccf": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)8. 藝術品收購合同 8.pdf",
+      "ts": 1772713089841,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300374_c.pdf"
+    },
+    "46f585acac8275a09670a69256c9d10c5c75dc2cc57ab8b1c9e2199451213110": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)9. 藝術品收購合同 9.pdf",
+      "ts": 1772713092020,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300375_c.pdf"
+    },
+    "46691f9d76fb0a09f80ef6c01a1daa23e24b002815e4edbf9f8e5fc011daef27": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)10. 藝術品收購合同 10.pdf",
+      "ts": 1772713093532,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300376_c.pdf"
+    },
+    "33c7badc1652d1c6006aa7efa57f616c16cd39c3b0363467ba779097bf37bd20": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)11. 藝術品收購合同 11.pdf",
+      "ts": 1772713094948,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300377_c.pdf"
+    },
+    "22225a78f47ad237955d7a1635423c42d33a9f4e41a356ba22ee63c31a5778f7": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)12. 藝術品收購合同 12.pdf",
+      "ts": 1772713095968,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300378_c.pdf"
+    },
+    "91b095bc4580af68d5914c3dea99472f9f0ef8befafbaebde85e1a5c35501780": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)13. 藝術品收購合同 13.pdf",
+      "ts": 1772713097375,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300379_c.pdf"
+    },
+    "e752268e84b20746db76b07802b387746217d86701038af87f1994e975d438e9": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-23/00290 展示文件 展示文件 (多檔案) (b)14. 藝術品收購合同 14.pdf",
+      "ts": 1772713098573,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/12027598/2026022300380_c.pdf"
+    },
+    "0e89c7bdce2f9a3ff8f22b8495a3a1e371b901ff124b0a4e6ffca8451eacee0a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (a) 2026年不競爭契據.pdf",
+      "ts": 1772713101149,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000567_c.pdf"
+    },
+    "747a04c544c5cd79753fb524a268e556d284168ee342ceb7c870a163a900db31": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (b)日期為2026年2月23日之董事會函件.pdf",
+      "ts": 1772713102497,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000568_c.pdf"
+    },
+    "7ee8e69327be9fbdbfb4397b16e366b96c645493340dbe4dcb55d7a8fdef905d": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (c) 日期為2026年2月23日之獨立董事委員會推薦建議函件.pdf",
+      "ts": 1772713103521,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000569_c.pdf"
+    },
+    "c08dd0f37d8ba4d7c7deacce0f3633c083baaa8bae26975efddbf5a52623f6a0": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (d) 日期為2026年2月23日之獨立財務顧問意見函件.pdf",
+      "ts": 1772713104819,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000570_c.pdf"
+    },
+    "6360f23bc5af249c8d1a00cb035c152ff153b7f78647f7c839789e98114119ac": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (e) 日期為2026年2月23日之獨立財務顧問書面同意書.pdf",
+      "ts": 1772713106105,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000571_c.pdf"
+    },
+    "8ff984b38ed8dd0b553e0e1d6fdd4940e6e8ee161a1553128f71d710bcc25855": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (f) 重大合約 - 日期為2026年2月3日的轉讓協議.pdf",
+      "ts": 1772713107145,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000572_c.pdf"
+    },
+    "a9471ca3e2d92c9b151bfc5853a778b71ca1507e669dd1e4d01f1d0020ce11ca": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-20/01075 展示文件 展示文件 - 關連交易 - 建議修訂現有不競爭承諾 (多檔案) (g) 通函.pdf",
+      "ts": 1772713108200,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/12026937/2026022000573_c.pdf"
+    },
+    "8ec7c677bc2bd344fe3edb86d846fbb2cddb203068074fa6b0c38e1a43bffbfe": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/09880 展示文件 展示文件 (多檔案) (a) 同意書.pdf",
+      "ts": 1772713110134,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12026360/2026021600912_c.pdf"
+    },
+    "ab859c2a4e9f61d287b0960144cec124d8d629e2fc68e7fcc07d7084b35f9f36": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/09880 展示文件 展示文件 (多檔案) (b) 收購事項後本集團未經審核備考財務資料.pdf",
+      "ts": 1772713111578,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12026360/2026021600913_c.pdf"
+    },
+    "8b1a413f1ae3afa822e132e40cace013ec16d5f5a4771e9a83d24d42a5e7437a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/09880 展示文件 展示文件 (多檔案) (c) 通函.pdf",
+      "ts": 1772713134746,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12026360/2026021600914_c.pdf"
+    },
+    "dcff3aa101dab5b10d6b555369b5d6e1750552c1e4c3d10729c3935ff10d6924": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/09880 展示文件 展示文件 (多檔案) (d) 股份轉讓協議.pdf",
+      "ts": 1772713139877,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12026360/2026021600915_c.pdf"
+    },
+    "d946a9e53b14c7f92cf0e91ff7183998f3c6391e59120a22fa1da1e025729181": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/01894 展示文件 展示文件 (多檔案) (a) 本集團未經審核備考財務資料之會計師報告.pdf",
+      "ts": 1772713141848,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12025901/2026021600447_c.pdf"
+    },
+    "17b637127eef8eb45b92ed707b26c3d7525ae97245da39ad91dab24d69e9645e": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/01894 展示文件 展示文件 (多檔案) (b) 日期為2024年5月23日的配售協議.pdf",
+      "ts": 1772713147001,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12025901/2026021600448_c.pdf"
+    },
+    "1e921cb45465299515c6c16b79210b353749eb945ef66ca63fe42bbd8b7454d0": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/01894 展示文件 展示文件 (多檔案) (c) 配售協議.pdf",
+      "ts": 1772713151184,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12025901/2026021600449_c.pdf"
+    },
+    "be44aea5758db986e3e88918ddd1d9d23bc9ab3f4427222303729b5321042a13": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-16/01894 展示文件 展示文件 (多檔案) (d) 核數師之同意書.pdf",
+      "ts": 1772713152844,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/12025901/2026021600450_c.pdf"
+    },
+    "3f0f80bf255ce2c646c640f186c47e20f469406e8223823cdc001b29969539d8": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-13/01719 展示文件 展示文件 (多檔案) 二零二六年中國通商綜合港口物流服務框架協議.pdf",
+      "ts": 1772713155722,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0213/12024621/2026021300800_c.pdf"
+    },
+    "c27343b2d502ce089cf6c9678032924a17ca9801f4f2106803003e9104df9cd9": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-13/01719 展示文件 展示文件 (多檔案) 二零二六年湖北港口綜合港口物流服務框架協議.pdf",
+      "ts": 1772713157353,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0213/12024621/2026021300801_c.pdf"
+    },
+    "0c8f7f2690fd485ca4af563e1213ad464eb6f0a748b78185abefa24331e14007": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-13/01719 展示文件 展示文件 (多檔案) 鎧盛資本有限公司同意書.pdf",
+      "ts": 1772713158034,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0213/12024621/2026021300802_c.pdf"
+    },
+    "180a15d1b00165c27e5a81d7b7dd574e693d103f13111cea1c9d7809880b6c5c": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/03858 展示文件 展示文件 (多檔案) 採礦服務採購協議.pdf",
+      "ts": 1772713163596,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023955/2026021201411_c.pdf"
+    },
+    "7962b7de43d12bd6bc64b5ae06873517b17f0fc8ec2cf2fc959775458a4463e8": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/03858 展示文件 展示文件 (多檔案) 補充採礦服務採購協議.pdf",
+      "ts": 1772713166116,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023955/2026021201412_c.pdf"
+    },
+    "b96c7e30904859a312c12f5b5037db2c9f7cb95485e13027c686a554178d7710": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/03858 展示文件 展示文件 (多檔案) 大有融資有限公司的書面同意書.pdf",
+      "ts": 1772713167283,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023955/2026021201413_c.pdf"
+    },
+    "d80f262c871ed7c0e6463286c2900e7fc909233fabb7bd260c99b7f91b051cd9": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (i) (1)本公司2025年6月30日止六個月期間之中期報告.pdf",
+      "ts": 1772713169001,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200992_c.pdf"
+    },
+    "84a7c6ebc39a806f26e54a6a0701eda3b4010e7db38934350ac0fe69ed92571b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (i) (2) 本公司2024年12月31日財政年度之年報.pdf",
+      "ts": 1772713170978,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200993_c.pdf"
+    },
+    "f1832fa6b26ab88ab790fa3f476744c52a5848a504a75d2838d9efee1cf0fa4b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (i) (3)本公司2023年12月31日財政年度之年報.pdf",
+      "ts": 1772713172147,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200994_c.pdf"
+    },
+    "fc8cb3a011dceb74b2425651c0968a7aed3961541ddcae33c4b86eb9028fc7be": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (i) (4)本公司2022年12月31日財政年度之年報.pdf",
+      "ts": 1772713173531,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200995_c.pdf"
+    },
+    "97e23269edc82f0d13ccc77e6b0c3b2e4d89137e48d5c793fc3c0745118e6ea2": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (ii) 董事會函件.pdf",
+      "ts": 1772713175066,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200996_c.pdf"
+    },
+    "30ff3a30f668e38bd69ac604f1d1de364b57792d6df61c6b326d35d1178b2889": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (iii) 獨立申報會計師就本供股章程附錄二所載本集團未經審核備考財務資料出具之核證報告.pdf",
+      "ts": 1772713176088,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200997_c.pdf"
+    },
+    "1d6999eee97e7a0c89e0210fdd8bc162095baa540467e82c616bebd3927ecd2b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (iv)(1) 重大合約 - 2025年6月13日的配售協議.pdf",
+      "ts": 1772713177594,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200998_c.pdf"
+    },
+    "2d2c76c47d2f2be5479b8c55e751ab1e48011e183117da06b6948fb048b388ba": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (iv)(2) 重大合約 - 2026年1月15日的配售協議.pdf",
+      "ts": 1772713180913,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021200999_c.pdf"
+    },
+    "9f623f7f087668a4732f3e67f8a1eeda4a707f2387241e575c1c4ffe944198cc": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (v) 國誠會計師事務所的同意書.pdf",
+      "ts": 1772713181590,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021201000_c.pdf"
+    },
+    "51e3a960c4947baf5f89ed6ab3092cc0ef18e0f1eee01bbf3285fa1d3ffdd7a7": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00770 展示文件 展示文件 (多檔案) (vi) 章程文件.pdf",
+      "ts": 1772713182895,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023701/2026021201001_c.pdf"
+    },
+    "e15385e93f477b557b32eb96e58af2a0cc8d26494df7eb755b6ba95d9fedd81a": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 1. 本公司截至二零二二年十二月三十一日止之年報.pdf",
+      "ts": 1772713184735,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200630_c.pdf"
+    },
+    "5f3647ad06c02d4820b7af0a008a2c9859847100bdf7100bcf1d4859fe63e7c3": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 2. 本公司截至二零二三年十二月三十一日止之年報.pdf",
+      "ts": 1772713186054,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200631_c.pdf"
+    },
+    "5ecf76e5483fadd8f95b773883620627bf073abb1c11f3eff24f9b2b70f81f79": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 3. 本公司截至二零二四年十二月三十一日止之年報.pdf",
+      "ts": 1772713187877,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200632_c.pdf"
+    },
+    "90b12ad12b8671299777c1a3ab9509121776ab842885dc66eb2406cf01513df7": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 4. 本公司截至二零二五年六月三十日止之中期報告.pdf",
+      "ts": 1772713189539,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200633_c.pdf"
+    },
+    "00a0fa18bc92cc7cf03996ea2db0834fb0f8be8d99f11e146258d4d995e30840": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 5. 獨立董事委員會函件.pdf",
+      "ts": 1772713191093,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200634_c.pdf"
+    },
+    "681a8556f821831380a8068ad1d025d175cd03dbd112604e289a58bd1ff6fbe8": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 6. 雋匯國際就供股致獨立董事委員會及獨立股東之意見函件.pdf",
+      "ts": 1772713192372,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200635_c.pdf"
+    },
+    "1cbac3d92f5ef2e9615d850ce00c97e1542a26e56472e0e14d04cb10cd4c32e2": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 7. 大華馬施雲會計師事務所有限公司就本集團未經審核備考財務資料發出之報告.pdf",
+      "ts": 1772713193844,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200636_c.pdf"
+    },
+    "0fa4609497557af6ac9952150c256557741e7d03a6f37691c44e67dfe1ffc2b6": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 8. 日期為二零二五年一月十五日之配售協議.pdf",
+      "ts": 1772713195215,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200637_c.pdf"
+    },
+    "0ebfe110bcc5f59284250beed8a246e4d02caf7c14d630679f5fb14acb18856b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 9. 日期為二零二五年一月二十七日之配售協議修改函件.pdf",
+      "ts": 1772713196322,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200638_c.pdf"
+    },
+    "b5b74a08f474ad017beb96377d0a736ca0d2fbe9f72f86e4233428b81c3ba9b0": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 10. 日期為二零二六年一月十三日之包銷協議.pdf",
+      "ts": 1772713197632,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200639_c.pdf"
+    },
+    "209eeeafba609db11df651810860433fc11c5e88473a63824caae2bce1bdd320": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 11. 大華馬施雲會計師事務所有限公司之書面同意書.pdf",
+      "ts": 1772713198631,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200640_c.pdf"
+    },
+    "e748b8f83ef8dd22701fbb73aedeb9ae3cfbbcbc3c3a6915dc3b77a9fd59d596": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-12/00689 展示文件 展示文件 (多檔案) 12. 雋匯國際之書面同意書.pdf",
+      "ts": 1772713199441,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/12023367/2026021200641_c.pdf"
+    },
+    "dc3badbcdc9add4f52748bd3f479704fa63e7790dbab48286f84ea6fe598f8b1": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01847 展示文件 展示文件 (多檔案) 2026-2028年金融服務框架協議.pdf",
+      "ts": 1772713201941,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019925/2026020901266_c.pdf"
+    },
+    "d42fccb8b8d97adad46a473282cd1e403dd9f456f894fc960542495695650536": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01847 展示文件 展示文件 (多檔案) 租賃合同.pdf",
+      "ts": 1772713205492,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019925/2026020901267_c.pdf"
+    },
+    "946af61b58874d460dff37a726a4530726850b25db486164a54da9c4a44b324b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01847 展示文件 展示文件 (多檔案) 保證合同.pdf",
+      "ts": 1772713208427,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019925/2026020901268_c.pdf"
+    },
+    "dd045a32c0be79acc94f509088dd31a3bea08a6c6a1d32763e2385f91e101622": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01847 展示文件 展示文件 (多檔案) 專家同意書.pdf",
+      "ts": 1772713209431,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019925/2026020901269_c.pdf"
+    },
+    "65dd1378e544359fe7e4ff047e6c8356856818a392a067e73588a0ab7621f5f1": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01723 展示文件 展示文件 (多檔案) 要約收購的要約文件.pdf",
+      "ts": 1772713212103,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019815/2026020901075_c.pdf"
+    },
+    "043a8a53b9693ee9c122ed88f285bd754c2d785e8e2ff9ea65acf723e123f977": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01723 展示文件 展示文件 (多檔案) 專家資格及同意書.pdf",
+      "ts": 1772713212851,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019815/2026020901076_c.pdf"
+    },
+    "8f0b0dea43218b1b750d28df162dd94ad42511e132d62825bf9ca2278ad07f04": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-09/01723 展示文件 展示文件 (多檔案) 通函.pdf",
+      "ts": 1772713214291,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/12019815/2026020901077_c.pdf"
+    },
+    "059723feadadaba0ad9cdb03b43e58f3830ea9cc11fa24bc8510ca19985c83ad": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-05/00576 展示文件 展示文件 須予披露的交易及關連交易 - 換股吸收合併鎮洋發展及根據特別授權發行A股 (多檔案) 《浙江滬杭甬高速公路股份有限公司與浙江鎮洋發展股份有限公司換股吸收合併協議》.pdf",
+      "ts": 1772713216029,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/12016797/2026020501980_c.pdf"
+    },
+    "c8d201c0e670c17b3a7b71f6b663910db84b990e186b842a89c86f4a1268ea36": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-05/00576 展示文件 展示文件 須予披露的交易及關連交易 - 換股吸收合併鎮洋發展及根據特別授權發行A股 (多檔案) 《浙江滬杭甬高速公路股份有限公司與浙江鎮洋發展股份有限公司之換股吸收合併協議的補充協議（一）》.pdf",
+      "ts": 1772713216993,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/12016797/2026020501981_c.pdf"
+    },
+    "3086d76f88dc1d3f681bdf67dbda57b7c4106bd298bc8133713a54852b22115b": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-05/00576 展示文件 展示文件 須予披露的交易及關連交易 - 換股吸收合併鎮洋發展及根據特別授權發行A股 (多檔案) 《浙江滬杭甬高速公路股份有限公司與浙江鎮洋發展股份有限公司之換股吸收合併協議的補充協議（二）》.pdf",
+      "ts": 1772713218076,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/12016797/2026020501982_c.pdf"
+    },
+    "3546fee3ac23723465dd750b0c80af219ddbd05da221f534a503e5b1e0934705": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-05/00905 展示文件 展示文件 (多檔案) 未經審核備考財務資料發出之會計師報告.pdf",
+      "ts": 1772713219702,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/12015968/2026020501072_c.pdf"
+    },
+    "7316407a1f37383a0419c358dd7f06a2d7d844ff18a0983b9850d4516aa166ae": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-02-05/00905 展示文件 展示文件 (多檔案) 中職信（香港）會計師事務所有限公司之同意書.pdf",
+      "ts": 1772713220940,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/12015968/2026020501073_c.pdf"
+    },
+    "cacde95b682fed18281448d9a1206bfc745acdb512bc8107ff415039ee747030": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 國富浩華（香港）會計師事務所有限公司發出有關本集團未經審核備考財務資料的會計師報告.pdf",
+      "ts": 1772762026475,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600020_c.pdf"
+    },
+    "fd3664e921e07aa3b488bc0dd6e3cd2968375e73083a5338e967d5ca3591b034": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 重大合同- 日期爲二零二四年五月二十一日的資產轉讓協議.pdf",
+      "ts": 1772762027173,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600021_c.pdf"
+    },
+    "00f76b08d4a6715011c56c7349f0af75a960b582bab644821a473479c2e82bea": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 重大合同-日期爲二零二六年二月十八日的配售函件.pdf",
+      "ts": 1772762027820,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600022_c.pdf"
+    },
+    "705b8ed9c57923cff1ea56d952f0e987612990d662c359dd814580f23585d227": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 國富浩華（香港）會計師事務所有限公司發出書面同意書.pdf",
+      "ts": 1772762028563,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600023_c.pdf"
+    },
+    "870927b83e25773ac82e29b14ea16cd1788fd025e4a8cf68bb18870a1891a495": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 章程.pdf",
+      "ts": 1772762029280,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600024_c.pdf"
+    },
+    "9cf9680228d84f63a7eb11a1cf2289991c8d3029e4ebd2511e1078d7b24b2988": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 暫定配額通知書.pdf",
+      "ts": 1772762030094,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600025_c.pdf"
+    },
+    "7637179c1ea657b4e62e252652f2341de6079335a04b5d6537aa4c3f0ba24b57": {
+      "savedAs": "/Users/happyhq/Desktop/HKEX_展示文件/2026-03-06/02623 展示文件 展示文件 (多檔案) 額外申請表格.pdf",
+      "ts": 1772762030713,
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/12043486/2026030600026_c.pdf"
+    }
+  },
+  "seenPages": {
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0305/2026030501782_c.htm": 1772711649897,
+    "https://www1.hkexnews.hk/listedco/listconews/gem/2026/0304/2026030401617_c.htm": 1772711651279,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0303/2026030301418_c.htm": 1772711658927,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0303/2026030301080_c.htm": 1772711662269,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022701326_c.htm": 1772711667730,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022700827_c.htm": 1772711673284,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022700149_c.htm": 1772711686832,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022700123_c.htm": 1772711792461,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022700095_c.htm": 1772711859195,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022700059_c.htm": 1772711934026,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0227/2026022700029_c.htm": 1772711977990,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/2026022600429_c.htm": 1772712003197,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0226/2026022600423_c.htm": 1772712006504,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/2026022500444_c.htm": 1772712064458,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/2026022500266_c.htm": 1772712095362,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0225/2026022500232_c.htm": 1772712118467,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/2026022401151_c.htm": 1772712147300,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0224/2026022400604_c.htm": 1772712160066,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/2026022300632_c.htm": 1772713056713,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/2026022300596_c.htm": 1772713074150,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0223/2026022300347_c.htm": 1772713098574,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0220/2026022000558_c.htm": 1772713108201,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/2026021600906_c.htm": 1772713139878,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0216/2026021600441_c.htm": 1772713152845,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/dod/tc.html": 1772713153391,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0213/2026021300795_c.htm": 1772713158035,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/2026021201406_c.htm": 1772713167284,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/2026021200980_c.htm": 1772713182896,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0212/2026021200616_c.htm": 1772713199442,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/2026020901260_c.htm": 1772713209432,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0209/2026020901070_c.htm": 1772713214292,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/2026020501975_c.htm": 1772713218076,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0205/2026020501068_c.htm": 1772713220941,
+    "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0306/2026030600011_c.htm": 1772762030714
+  }
+}
